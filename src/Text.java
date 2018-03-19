@@ -50,8 +50,8 @@ public class Text {
                 itemNumber++;
 
             } else itemNumber++;
-}
-System.out.println("Text will be shifted by this number: " + shiftByThisNumber);
+        }
+        System.out.println("Text will be shifted by this number: " + shiftByThisNumber);
 
         // now changing all the rest of the letter-based characters:
 
